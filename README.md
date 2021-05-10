@@ -9,7 +9,7 @@
 
 - 🎓 Proud alumnus of **Atmiya Vidya Mandir**
 
--  📖 I'm currently studing at B.Tech Computer Science and Engineering at **Shiv Nadar University, Delhi NCR**
+-  📖 I'm currently enrolled in B.Tech Computer Science and Engineering at **Shiv Nadar University, Delhi NCR**
 
  
 - 🌱 I’m currently learning **Machine Learning as well as Advanced Web Dev**
