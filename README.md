@@ -47,8 +47,8 @@
 
   
 
-<p><img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=meghrathod&show_icons=true&locale=en&layout=compact"  alt="meghrathod"  /></p>
+<p align="center"><img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=meghrathod&show_icons=true&locale=en&layout=compact"  alt="meghrathod"  /></p>
 
   
 
-<p>&nbsp;<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=meghrathod&show_icons=true&locale=en"  alt="meghrathod"  /></p>
+<p align="center">&nbsp;<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=meghrathod&show_icons=true&locale=en"  alt="meghrathod"  /></p>
