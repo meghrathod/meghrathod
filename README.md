@@ -3,9 +3,13 @@
 
 <h3  align="center">I’ve just begun this incredible journey in the field of Computer Science with knowledge in Web Development and Machine Learning. Looking forward to great opportunity to excel in this path of life!</h3>
 
-  
+<p align="center">
 
-<p  align="center">  <img  src="https://komarev.com/ghpvc/?username=meghrathod&label=Profile%20views&color=0e75b6&style=flat"  alt="meghrathod"  />  </p>
+<img src= "https://komarev.com/ghpvc/?username=meghrathod&style=flat&color=blueviolet" alt="profile-views" />
+
+</p>
+
+
 
 - 🎓 Proud alumnus of **Atmiya Vidya Mandir**
 
