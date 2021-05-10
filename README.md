@@ -16,7 +16,7 @@
 -  📖 I'm currently enrolled in B.Tech Computer Science and Engineering at **Shiv Nadar University, Delhi NCR**
 
  
-- 🌱 I’m currently learning **Machine Learning as well as Advanced Web Dev**
+- 🌱 I’m currently learning **Machine Learning as well as Web Dev with Reactjs and Nodejs**
 
   
 
