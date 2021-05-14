@@ -28,7 +28,7 @@
 
     
 
-- 📄 Know about my experiences at my [React Profile Page](https://me.meghrathod.tech)
+- 📄 Know about my experiences at my <a href="https://me.meghrathod.tech" target="_blank">React Profile Page</a>
 
   
 
