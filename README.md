@@ -16,7 +16,7 @@
 -  📖 I'm currently enrolled in B.Tech Computer Science and Engineering at **Shiv Nadar University, Delhi NCR**
 
  
-- 🌱 I’m currently learning **Machine Learning as well as Web Dev with Reactjs and Nodejs**
+- 🌱 I’m currently learning **Machine Learning, Web Dev with Reactjs and Nodejs and Java**
 
   
 
@@ -32,7 +32,7 @@
 
   
 
-- ⚡ Fun fact **I'm over-ambitious and I learn so many things at the same time. Interestingly I rarely screw up :) !**
+- ⚡ Fun fact **I'm over-ambitious and I learn so many things at the same time as you probaby noticed earlier. Interestingly I rarely screw up :) !**
 
   
 
