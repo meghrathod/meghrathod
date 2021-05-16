@@ -32,7 +32,7 @@
 
   
 
-- ⚡ Fun fact **I'm over-ambitious and I learn so many things at the same time as you probaby noticed earlier. Interestingly I rarely screw up :) !**
+- ⚡ Fun fact **I'm over-ambitious and I learn so many things at the same time as you probably noticed earlier. Interestingly I rarely screw up :) !**
 
   
 
