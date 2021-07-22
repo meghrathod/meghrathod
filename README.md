@@ -24,7 +24,7 @@
 
   
 
-- 💬 Ask me about **Reactjs, Python and Data Structures**
+- 💬 Ask me about **Reactjs, Python, Java and Data Structures**
 
     
 
