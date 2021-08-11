@@ -1,5 +1,5 @@
 
-<h1  align="center">Hi 👋, I'm Megh Rathod</h1>
+<h1  align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="👋Hi" width="40px"/>, I'm Megh Rathod</h1>
 
 <h3  align="center">I’ve just begun this incredible journey in the field of Computer Science with knowledge in Web Development and Machine Learning. Looking forward to great opportunity to excel in this path of life!</h3>
 
