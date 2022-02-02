@@ -1,6 +1,9 @@
 
 <h1  align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="👋Hi" width="40px"/>, I'm Megh Rathod</h1>
+<p  align="center" >
+<a  href="https://twitter.com/meghrathod"  target="blank"><img  align="center"  src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"  alt="meghrathod"  height="40"  width="40"  /></a>  <a  href="https://linkedin.com/in/https://www.linkedin.com/in/rathod-megh/"  target="blank"><img  align="center"  src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"  alt="https://www.linkedin.com/in/rathod-megh/"  height="40"  width="40"  /></a>  <a  href="https://instagram.com/megh.rathod/"  target="blank"><img  align="center"  src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"  alt="https://www.instagram.com/megh.rathod/"  height="40"  width="40"  /></a> <a  href="mailto:me@meghrathod.tech"  target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/apple-mail.png" height="40"  width="40"  /></a>
 
+</p>
 <h3  align="center">I’ve just begun this incredible journey in the field of Computer Science with knowledge in Web Development and Machine Learning. Looking forward to great opportunity to excel in this path of life!</h3>
 
 <p align="center">
@@ -34,16 +37,7 @@
 
 - ⚡ Fun fact **I'm over-ambitious and I learn so many things at the same time as you probably noticed earlier. Interestingly I rarely screw up :) !**
 
-  
-
-<h3  align="left">Connect with me:</h3>
-
-<p  align="center" >
-<a  href="https://twitter.com/meghrathod"  target="blank"><img  align="center"  src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"  alt="meghrathod"  height="40"  width="40"  /></a>  <a  href="https://linkedin.com/in/https://www.linkedin.com/in/rathod-megh/"  target="blank"><img  align="center"  src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"  alt="https://www.linkedin.com/in/rathod-megh/"  height="40"  width="40"  /></a>  <a  href="https://instagram.com/megh.rathod/"  target="blank"><img  align="center"  src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"  alt="https://www.instagram.com/megh.rathod/"  height="40"  width="40"  /></a> <a  href="mailto:me@meghrathod.tech"  target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/apple-mail.png" height="40"  width="40"  /></a>
-
-</p>
-
-  
+ 
 
 <h3  align="left">Languages and Tools:</h3>
 
