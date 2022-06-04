@@ -31,7 +31,7 @@
 
     
 
-- 📄 Know more about me <a href="https://me.meghrathod.tech" target="_blank">here</a>
+- 📄 Know more about me <a href="https://meghrathod.dev" target="_blank">here</a>
 
   
 
