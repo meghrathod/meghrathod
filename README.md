@@ -23,7 +23,7 @@
 
   
 
-- 👯 I’m looking to collaborate on **cool React and Nodejs projects.**
+- 👬🏻 I’m looking to collaborate on **cool React and Nodejs projects.**
 
   
 
