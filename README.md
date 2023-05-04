@@ -1,5 +1,5 @@
 
-<h1  align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="👋Hi" width="40px"  height="40" />, I'm Megh Rathod</h1>
+<h1  align="center">Hi, I'm Megh! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="👋Hi" width="40px"  height="40" /></h1>
 <p  align="center" >
 <a  href="https://twitter.com/meghrathod"  target="blank"><img  align="center"  src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"  alt="meghrathod"  height="40"  width="40"  /></a>  <a  href="https://linkedin.com/in/meghrathod"  target="blank"><img  align="center"  src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"  alt="https://www.linkedin.com/in/rathod-megh/"  height="40"  width="40"  /></a> <a  href="mailto:me@meghrathod.dev"  target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/apple-mail.png" height="40"  width="40"  /></a>
 
