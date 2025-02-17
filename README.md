@@ -1,28 +1,40 @@
-<h1 align="center">Hi 👋, I'm Megh!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meghrathod&label=Profile%20views&color=0e75b6&style=flat" alt="meghrathod" /> </p>
+# 👋 Hey there, I'm Megh!
 
-- 🔭 I’m currently working on [Shorty](https://github.com/meghrathod/shorty)
+- **Full-stack software developer** with experience in **Spring Boot microservices, Golang, and Node.js** for scalable backends, and **React & Angular** for dynamic frontends.  
+- Passionate about **cloud-native applications**, **distributed systems**, and **real-time web applications**.  
+- Strong background in **DevOps, CI/CD pipelines, and containerization** with **Docker and Kubernetes**.  
 
-- 🌱 I’m currently learning **Golang**
+## 🚀 Current Work  
+- **🔭 Building:** [Shorty](https://github.com/meghrathod/shorty) – a URL shortener with analytics  
+- **🌱 Learning:** **Advanced Golang & Cloud-native architecture**  
+- **🤝 Proud of:** [Kabootar](https://kabootar.meghrathod.dev) – a P2P file-sharing tool using WebRTC  
+- **👨‍💻 Portfolio:** [meghrathod.dev](https://meghrathod.dev)  
 
-- 🤝 I’m super proud of my P2P file sharing tool, [Kabootar](https://kabootar.meghrathod.dev)
+## 🏆 Work & Projects  
+### **Dell Technologies (Software Engineer)**  
+✅ Developed **secure microservices** for **Quote Deal Planning (QDP)** with **OAuth2 authentication**  
+✅ **Optimized CI/CD pipelines**, improving DevOps maturity to **90%+**  
+✅ Built **React & Angular** responsive frontend dashboards, enhancing real-time deal visibility for planners  
 
-- 👨‍💻 All of my projects are available at [meghrathod.dev](meghrathod.dev)
+### **Open-Source Projects**  
+- **[Kabootar](https://kabootar.meghrathod.dev)** – P2P file sharing via WebRTC, with **Golang signaling server**  
+- **[Shorty](https://sh.meghrathod.dev)** – URL shortener with **Golang backend & PostgreSQL**  
 
-- 💬 Ask me about **react, java, python**
+## 🛠️ Technologies & Tools  
 
-- 📫 How to reach me **me@meghrathod.dev**
+### **Languages**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  ![Golang](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat&logo=typescript&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/meghrathod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meghrathod" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/meghrathod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meghrathod" height="30" width="40" /></a>
-</p>
+### **Frameworks & Libraries**  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=spring-boot&logoColor=white)  ![React](https://img.shields.io/badge/React-20232A.svg?style=flat&logo=react&logoColor=61DAFB)  ![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=flat&logo=angular&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=node.js&logoColor=white)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### **DevOps & Cloud**  
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat&logo=kubernetes&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)  ![GCP](https://img.shields.io/badge/GCP-4285F4.svg?style=flat&logo=google-cloud&logoColor=white)  ![CI/CD](https://img.shields.io/badge/CI%2FCD-00A98F.svg?style=flat&logo=github-actions&logoColor=white)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meghrathod&show_icons=true&locale=en&layout=compact" alt="meghrathod" /></p>
+### **Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=postgresql&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meghrathod&show_icons=true&locale=en" alt="meghrathod" /></p>
+## 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/meghrathod)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/meghrathod)  
 
+📩 Reach me at **me@meghrathod.dev**  
