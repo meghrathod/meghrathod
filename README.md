@@ -5,9 +5,11 @@
 - Strong background in **DevOps, CI/CD pipelines, and containerization** with **Docker and Kubernetes**.  
 
 ## 🚀 Current Work  
-- **🔭 Building:** [Shorty](https://github.com/meghrathod/shorty) – a URL shortener with analytics  
 - **🌱 Learning:** **Advanced Golang & Cloud-native architecture**  
-- **🤝 Proud of:** [Kabootar](https://kabootar.meghrathod.dev) – a P2P file-sharing tool using WebRTC  
+- **🤝 Proud of:**
+  - [Kabootar](https://kabootar.meghrathod.dev) – a P2P file-sharing tool using WebRTC
+  - [Shorty](https://sh.meghrathod.dev) – URL Shortener with Private Analytics
+  - [Plant Disease Detection System](https://github.com/meghrathod/plantdisease-ml) - An IaaC Machine Learning System with Ray and MLFlow, Serving, Monitoring and Evaluation
 - **👨‍💻 Portfolio:** [meghrathod.dev](https://meghrathod.dev)  
 
 ## 🏆 Work & Projects  
